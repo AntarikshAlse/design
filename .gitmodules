@@ -1,0 +1,3 @@
+[submodule "designer/themes/portio"]
+	path = designer/themes/portio
+	url = git@github.com:StaticMania/portio-hugo.git
